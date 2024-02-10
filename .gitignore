@@ -160,9 +160,13 @@ cython_debug/
 #.idea/
 
 
+
+## Add By Banis Ghoul
 # GitHub Tokens
 # Token
 # Name: Intelligent-Semantic-Segmentation
 # Value: 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
 # Statuus: Only Intelligent-Semantic-Segmentation-for-Self-Driving-Vehicles-Using-Deep-Learning
 token.txt
+project_template.py
+
