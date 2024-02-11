@@ -1,0 +1,9 @@
+torchvision>=0.17.0
+torch>=2.2.0
+torchview>=0.2.6
+tqdm>=4.66.1 
+matplotlib>=3.7.4 
+# dvc
+# notebook
+# pyYAML
+-e .
